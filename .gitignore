@@ -1,0 +1,19 @@
+# Environment variables
+.env
+.env.*
+*.secret
+
+# API keys
+config.local.ts
+lora_config.local.h
+
+# Build
+node_modules
+dist
+build
+
+# Python
+__pycache__/
+*.pyc
+
+Add .gitignore for security
