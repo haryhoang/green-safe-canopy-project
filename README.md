@@ -5,6 +5,9 @@
 ![Tech Stack](https://img.shields.io/badge/Stack-React%20|%20TypeScript%20|%20Vite%20|%20Gemini-blue)
 
 > **Top 5 Finalist - SPARK IT UP Innovation Contest 2025 (UIT)**
+> Idea Model:
+> <img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/e5fd4818-c205-4252-8aa0-900fdada204e" />
+
 
 [Green Safe Dashboard]
 <img width="1878" height="919" alt="image" src="https://github.com/user-attachments/assets/52d3e149-bead-4d2f-bc85-ca373d51a442" />
