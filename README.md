@@ -5,6 +5,12 @@
 ![Tech Stack](https://img.shields.io/badge/Stack-React%20|%20TypeScript%20|%20Vite%20|%20Gemini-blue)
 
 > **Top 5 Finalist - SPARK IT UP Innovation Contest 2025 (UIT)**
+> Team member:
+> Hoang Gia Hung
+> Nguyễn Tấn Đạt
+> Hoàng Công Thọ
+>
+> 
 > Idea Model:
 > <img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/e5fd4818-c205-4252-8aa0-900fdada204e" />
 
